@@ -1,5 +1,5 @@
 # DATA SCIENCE PROJECTS
-** This Repository contains all the projects related to Data Science and Machine Learning.**
+**This Repository contains all the projects related to Data Science and Machine Learning.**
 
 # Tools:
 
