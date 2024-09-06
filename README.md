@@ -17,8 +17,5 @@
 
 - Google Collab
 - Jupyter Notebook
-- Kaggle Notebook
-
-# Thank You! 🚀👻
 
 
