@@ -10,8 +10,6 @@
 - Seaborn
 - Sklearn
 - Tensorflow and Keras
-- Google Sheets
-- Tableau
 
 # Editors:
 
